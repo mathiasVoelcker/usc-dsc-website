@@ -299,7 +299,7 @@ canvas {
 }
 
 .card-img {
-    height: 125px;
+    height: 175px;
     width: 125px;
     display: block;
     margin-left: auto;
@@ -342,15 +342,15 @@ canvas {
     color: #FF69B4;
 }
 
-.faculty-advisor {
+.chief-of-staff {
     color: #9D69A3;
 }
 
-.creatives-lead {
+.events-lead {
     color: #0F9D58;
 }
 
-.business-lead {
+.secretary {
     color: #4285F4;
 }
 
