@@ -299,7 +299,7 @@ canvas {
 }
 
 .card-img {
-    height: 175px;
+    height: 125px;
     width: 125px;
     display: block;
     margin-left: auto;
@@ -308,11 +308,11 @@ canvas {
 }
 
 .card-img-core-team {
-    height: 125px;
-    width: 125px;
+    height: 300px;
+    width: 200px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 5px;
+    margin-right: 5px;
     margin-bottom: 10px;
     cursor: pointer;
 }
