@@ -434,6 +434,7 @@ canvas {
 }
 
 .contact-section {
+    margin-top: 200px;
     height: 75vh;
     display: flex;
     align-items: center;
@@ -516,6 +517,7 @@ canvas {
 
 .footer-section {
     color: #FFFFFF;
+    margin-top: 85px;
 }
 
 .footer-title {
