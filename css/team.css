@@ -255,10 +255,10 @@ canvas {
 }
 
 #slide3 {
-    background: url('../images/events/3.jpg');j
+    background: url('../images/events/1.jpg');j
 }
 
-#slide4 {
+/* #slide4 {
     background: url('../images/events/4.jpg');
 }
 
@@ -268,7 +268,7 @@ canvas {
 
 #slide6 {
     background: url('../images/events/6.jpg');
-}
+} */
 
 #owl-demo .item img {
     width: 100vw;
@@ -308,8 +308,8 @@ canvas {
 }
 
 .card-img-core-team {
-    height: 300px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -339,32 +339,46 @@ canvas {
 }
 
 .team-lead {
-    color: #FF69B4;
+    color: #DB4437;
 }
 
-.chief-of-staff {
+.technical-lead-web {
     color: #9D69A3;
 }
 
-.events-lead {
-    color: #0F9D58;
+.technical-lead-ml {
+    color: #FF69B4;
 }
 
-.secretary {
+.technical-lead-industry {
+    color: #eb2ba7;
+}
+
+.events-lead {
+    color: #c4650d;
+}
+
+.projects-lead {
+    color: #8cc02d;
+}
+
+.marketing-lead {
     color: #4285F4;
 }
 
 .public-relations-lead {
-    color: #F4B400;
+    color: #110ec0;
 }
 
-.technical-lead {
-    color: #DB4437;
+.treasurer {
+    color: #830913;
 }
 
-.team-member {
-    color: #6c757D;
+.webmaster {
+    color: #23b3cc;
 }
+
+
 
 .social-icons {
     font-size: 20px !important;
